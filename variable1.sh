@@ -1,7 +1,7 @@
 #!bin/bash
 
-Person1=virat
-Person2=anushka
+Person1=$1
+Person2=$2
 
 
 echo "$Person1:hi $Person2 gd mrng"
